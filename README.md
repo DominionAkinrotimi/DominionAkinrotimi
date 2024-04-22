@@ -1,27 +1,5 @@
 <h1 align="center">Hello, I'm Dominion Akinrotimi 👋</h1>
 <h3 align="center">Data Analyst and Scientist</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DominionAKinrotimi" alt="DominionAkinrotimi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DominionAKinrotimi" alt="DominionAkinrotimi" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ADominion76816" target="blank"><img src="https://img.shields.io/twitter/follow/ADominion76816?logo=twitter&style=for-the-badge" alt="@ADominion76816" /></a> </p>
-<p align="left"> <a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/dominion-akinrotimi-7a5961268?trk=profile-badge"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> </p>
-
----
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DominionAkinrotimi&show_icons=true&locale=en&layout=compact&theme=onedark" alt="DominionAKinrotimi" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DominionAkinrotimi&show_icons=true&locale=en&theme=onedark" alt="DominionAKinrotimi" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DominionAKinrotimi&theme=onedark" alt="DominionAKinrotimi" />
-</p>
-
 ---
 
 I am a BSc Computer Science student with a passion for data science. My skills include troubleshooting and fixing hardware and software problems gained from practical experience as a Desk Help Administrator. Proficient in Excel, MS Word, CorelDRAW, and PowerPoint.
@@ -33,4 +11,26 @@ Check out my portfolio to see not just what I've done, but the promise of what I
 
 [Portfolio Link](https://honest-elephant.cloudvent.net/)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DominionAkinrotimi&hide_border=true&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DominionAkinrotimi&hide_border=true)](https://git.io/streak-stats)
+---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DominionAkinrotimi" alt="DominionAkinrotimi" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DominionAkinrotimi&theme=onedark" alt="DominionAkinrotimi" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/ADominion76816" target="blank"><img src="https://img.shields.io/twitter/follow/ADominion76816?logo=twitter&style=for-the-badge" alt="@ADominion76816" /></a> </p>
+<p align="left"> <a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/dominion-akinrotimi-7a5961268?trk=profile-badge"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> </p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DominionAkinrotimi&show_icons=true&locale=en&layout=compact" alt="DominionAkinrotimi" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DominionAkinrotimi&show_icons=true&locale=en" alt="DominionAkinrotimi" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DominionAkinrotimi" alt="DominionAkinrotimi" />
+</p>
+
