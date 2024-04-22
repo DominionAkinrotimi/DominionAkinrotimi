@@ -15,4 +15,4 @@ Check out my portfolio to see not just what I've done, but the promise of what I
 
 [Portfolio Link](<https://honest-elephant.cloudvent.net/>)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DominionAkinrotimi&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DominionAkinrotimi&hide_border=true)](https://git.io/streak-stats)
