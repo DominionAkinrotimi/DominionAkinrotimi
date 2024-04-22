@@ -1,14 +1,13 @@
 <h1 align="center">Hello, I'm Dominion Akinrotimi 👋</h1>
 <h3 align="center">Data Analyst and Scientist</h3>
 
-I am a BSc Computer Science student with a passion for data science. My skills include troubleshooting and fixing hardware and software problems gained from practical experience as a Desk Help Administrator. Proficient in Excel, MS Word, CorelDRAW, and PowerPoint.
+I am a BSc Computer Science student with a passion for Data Science and Analytics. Other than my passion for Data Science and Analytics, my other skills include troubleshooting and fixing hardware and software problems gained from practical experience as a Desk Help Administrator. Proficiency in Excel, MS Word, CorelDRAW, and PowerPoint.
 
 I bring to the table a combination of intellectual and analytical skills. I believe in the power of continuous learning, and my journey reflects practical experience in various domains.
 
 ### Portfolio:
-Check out my portfolio to see not just what I've done, but the promise of what I can achieve.
-
-[Portfolio Link](https://honest-elephant.cloudvent.net/) [![GitHub Streak](https://streak-stats.demolab.com?user=DominionAkinrotimi&hide_border=true)](https://git.io/streak-stats)
+Check out my portfolio to see not just what I've done, but the promise of what I can achieve. [Portfolio Link](https://honest-elephant.cloudvent.net/)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DominionAkinrotimi&hide_border=true)](https://git.io/streak-stats)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DominionAkinrotimi" alt="DominionAkinrotimi" /> </p>
