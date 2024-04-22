@@ -18,11 +18,11 @@ Check out my portfolio to see not just what I've done, but the promise of what I
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DominionAkinrotimi&hide_border=true)](https://git.io/streak-stats)
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DominionAkinrotimi&show_icons=true&locale=en&layout=compact" alt="DominionAkinrotimi" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=DominionAkinrotimi&show_icons=true&locale=en" alt="DominionAkinrotimi" />
 </p>
 
