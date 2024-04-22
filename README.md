@@ -8,6 +8,7 @@ I bring to the table a combination of intellectual and analytical skills. I beli
 ### Portfolio:
 Check out my portfolio to see not just what I've done, but the promise of what I can achieve. [Portfolio Link](https://honest-elephant.cloudvent.net/)
 
+---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DominionAkinrotimi" alt="DominionAkinrotimi" /> </p>
 
 <p align="left"> <a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/dominion-akinrotimi-7a5961268?trk=profile-badge"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> </p>
