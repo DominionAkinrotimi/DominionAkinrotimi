@@ -14,3 +14,5 @@ I bring to the table a combination of intellectual and analytical skills. I beli
 Check out my portfolio to see not just what I've done, but the promise of what I can achieve.
 
 [Portfolio Link](<https://honest-elephant.cloudvent.net/>)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DominionAkinrotimi&theme=dark)](https://git.io/streak-stats)
