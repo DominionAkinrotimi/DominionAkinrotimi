@@ -7,17 +7,14 @@ I bring to the table a combination of intellectual and analytical skills. I beli
 
 ### Portfolio:
 Check out my portfolio to see not just what I've done, but the promise of what I can achieve. [Portfolio Link](https://honest-elephant.cloudvent.net/)
-[![GitHub Streak](https://streak-stats.demolab.com?user=DominionAkinrotimi&hide_border=true)](https://git.io/streak-stats)
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DominionAkinrotimi" alt="DominionAkinrotimi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DominionAkinrotimi&theme=onedark" alt="DominionAkinrotimi" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ADominion76816" target="blank"><img src="https://img.shields.io/twitter/follow/ADominion76816?logo=twitter&style=for-the-badge" alt="@ADominion76816" /></a> </p>
 <p align="left"> <a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/dominion-akinrotimi-7a5961268?trk=profile-badge"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> </p>
 
-
+<p align="left"> <a href="https://twitter.com/ADominion76816" target="blank"><img src="https://img.shields.io/twitter/follow/ADominion76816?logo=twitter&style=for-the-badge" alt="@ADominion76816" /></a> </p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=DominionAkinrotimi&hide_border=true)](https://git.io/streak-stats)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DominionAkinrotimi&show_icons=true&locale=en&layout=compact" alt="DominionAkinrotimi" />
 </p>
