@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Dominion Akinrotimi 👋</h1>
 <h3 align="center">Data Analyst and Scientist</h3>
 
-I am a BSc Computer Science student with a passion for Data Science and Analytics. Other than my passion for Data Science and Analytics, my other skills include troubleshooting and fixing hardware and software problems gained from practical experience as a Desk Help Administrator. Proficiency in Excel, MS Word, CorelDRAW, and PowerPoint.
+I am a BSc Computer Science student with a passion for Data Science and Analytics. Other than my passion for Data Science, Data Analytics and Research, my other skills include troubleshooting and fixing hardware and software problems gained from practical experience as a Desk Help Administrator. Proficiency in Excel, MS Word, CorelDRAW, and PowerPoint.
 
 I bring to the table a combination of intellectual and analytical skills. I believe in the power of continuous learning, and my journey reflects practical experience in various domains.
 
