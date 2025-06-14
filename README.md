@@ -1,9 +1,18 @@
-<h1 align="center">Hello, I'm Dominion Akinrotimi 👋</h1>
-<h3 align="center">Data Analyst and Scientist</h3>
+<h1 align="center">Hi, I'm Dominion Akinrotimi 👋</h1>
+<h3 align="center">Data Analyst | Aspiring Machine Learning Engineer | Research Enthusiast</h3>
 
-I am a BSc Computer Science student with a passion for Data Science and Analytics. Other than my passion for Data Science, Data Analytics and Research, my other skills include troubleshooting and fixing hardware and software problems gained from practical experience as a Desk Help Administrator. Proficiency in Excel, MS Word, CorelDRAW, and PowerPoint.
+Computer Scientist with a deep interest in data and how it shapes decisions.
 
-I bring to the table a combination of intellectual and analytical skills. I believe in the power of continuous learning, and my journey reflects practical experience in various domains.
+🔍 I explore data to find patterns, generate insights, and build models that solve real-world problems.
+
+🧠 My current focus areas:
+- Data Analysis & Visualization (Excel, Python, Power BI)
+- Statistical Thinking & Research
+- Machine Learning (scikit-learn, tensorflow, openCV, nltk, statsmodel, pandas, NumPy)
+
+📚 Always learning, always building especially in areas like data preprocessing, model training, and applied research in the health sector majorly.
+
+Let’s connect, collaborate, and use data to make smarter decisions.
 
 ### Portfolio:
 Check out my portfolio to see not just what I've done, but the promise of what I can achieve. [Portfolio Link](https://honest-elephant.cloudvent.net/)
@@ -11,7 +20,7 @@ Check out my portfolio to see not just what I've done, but the promise of what I
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DominionAkinrotimi" alt="DominionAkinrotimi" /> </p>
 
-<p align="left"> <a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/dominion-akinrotimi-7a5961268?trk=profile-badge"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> </p>
+<p align="left"> <a class="badge-base__link LI-simple-link" href="https://ng.linkedin.com/in/dominion-akinrotimi?trk=profile-badge"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ADominion76816" target="blank"><img src="https://img.shields.io/twitter/follow/ADominion76816?logo=twitter&style=for-the-badge" alt="@ADominion76816" /></a> </p>
 
