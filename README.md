@@ -1,21 +1,22 @@
-<h1 align="center">Hi, I'm Dominion Akinrotimi 👋</h1>
+<h1 align="center">Hi Hi, I'm Dominion Akinrotimi 👋</h1>
 <h3 align="center">Data Scientist | Machine Learning Engineer-in-Progress | Researcher</h3>
 
 Computer Scientist passionate about turning messy, confusing data into solutions that create clarity, confidence, and real-world impact.  
 
-🔍 **What I Do**  
+**What I Do**  
 - Transform data into insights, dashboards, and predictive models.  
 - Build AI systems for healthcare, conservation, and business operations.  
 - Support research with advanced analytics and machine learning tools.  
 
-🧠 **Current Focus Areas**  
+**Current Focus Areas**  
 - Data Analysis & Visualization (Python, Excel, Power BI, SQL)  
 - Machine Learning & AI (scikit-learn, TensorFlow, CNNs, NLP, Generative AI)  
 - Applied Research in Healthcare AI, Human-Centered ML, and Conservation Tech  
 
-📚 Always learning, always building—especially in areas like data preprocessing, model training, and ethical AI deployment.  
+Always learning and always building especially in areas like data preprocessing, model training, and ethical AI deployment.  
 
-✨ My core belief? **Technology should feel like relief, not stress.**  
+
+My core belief? **Technology should feel like relief, not stress.**  
 
 ---
 
