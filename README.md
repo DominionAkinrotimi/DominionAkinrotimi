@@ -1,21 +1,28 @@
 <h1 align="center">Hi, I'm Dominion Akinrotimi 👋</h1>
-<h3 align="center">Data Analyst | Aspiring Machine Learning Engineer | Research Enthusiast</h3>
+<h3 align="center">Data Scientist | Machine Learning Engineer-in-Progress | Researcher</h3>
 
-Computer Scientist with a deep interest in data and how it shapes decisions.
+Computer Scientist passionate about turning messy, confusing data into solutions that create clarity, confidence, and real-world impact.  
 
-🔍 I explore data to find patterns, generate insights, and build models that solve real-world problems.
+🔍 **What I Do**  
+- Transform data into insights, dashboards, and predictive models.  
+- Build AI systems for healthcare, conservation, and business operations.  
+- Support research with advanced analytics and machine learning tools.  
 
-🧠 My current focus areas:
-- Data Analysis & Visualization (Excel, Python, Power BI)
-- Statistical Thinking & Research
-- Machine Learning (scikit-learn, tensorflow, openCV, nltk, statsmodel, pandas, NumPy)
+🧠 **Current Focus Areas**  
+- Data Analysis & Visualization (Python, Excel, Power BI, SQL)  
+- Machine Learning & AI (scikit-learn, TensorFlow, CNNs, NLP, Generative AI)  
+- Applied Research in Healthcare AI, Human-Centered ML, and Conservation Tech  
 
-📚 Always learning, always building especially in areas like data preprocessing, model training, and applied research in the health sector majorly.
+📚 Always learning, always building—especially in areas like data preprocessing, model training, and ethical AI deployment.  
 
-Let’s connect, collaborate, and use data to make smarter decisions.
+✨ My core belief? **Technology should feel like relief, not stress.**  
 
-### Portfolio:
-Check out my portfolio to see not just what I've done, but the promise of what I can achieve. [Portfolio Link](https://honest-elephant.cloudvent.net/)
+---
+
+### 🌍 Portfolio & Products  
+- [Selar Profile](https://selar.co/DominionAkinrotimi)  
+- [Portfolio Website](https://honest-elephant.cloudvent.net/)
+- [Medium](https://dominionakinrotimi.medium.com/)  
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DominionAkinrotimi" alt="DominionAkinrotimi" /> </p>
