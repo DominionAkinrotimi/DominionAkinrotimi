@@ -1,5 +1,5 @@
 <h1 align="center">Hi Hi, I'm Dominion Akinrotimi 👋</h1>
-<h3 align="center">Data Scientist | Machine Learning Engineer-in-Progress | Researcher</h3>
+<h3 align="center">Data Scientist | Machine Learning Engineer | Researcher</h3>
 
 Computer Scientist passionate about turning messy, confusing data into solutions that create clarity, confidence, and real-world impact.  
 
