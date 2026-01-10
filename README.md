@@ -22,7 +22,7 @@ My core belief? **Technology should feel like relief, not stress.**
 
 ### 🌍 Portfolio & Products  
 - [Selar Profile](https://selar.co/m/dominion-akinrotimi)  
-- [Portfolio Website](https://honest-elephant.cloudvent.net/)
+- [Portfolio Website](https://dominionakinrotimi.lovable.app)
 - [Medium](https://dominionakinrotimi.medium.com/)  
 
 ---
