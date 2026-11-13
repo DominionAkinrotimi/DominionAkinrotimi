@@ -20,9 +20,16 @@ My core belief? **Technology should feel like relief, not stress.**
 
 ---
 
+### 🔬 Featured Projects
+- **[PhytopathAI](https://github.com/DominionAkinrotimi/phytopathai)**: breast histology classification (normal, benign, in situ, invasive) with exact activation maps and patch-level SHAP. 85.0% accuracy on 80 held-out BACH images, all carcinomas detected. [Live app](https://phytopathai.streamlit.app/)
+- **[OncoVision](https://github.com/DominionAkinrotimi/OncoVision.METABRIC_Risk_Stratifier)**: breast cancer survival risk groups from 1,981 METABRIC patients. Random Survival Forest, C-index 0.69 on held-out patients. [Live app](https://metabric-risk-stratifier.streamlit.app/)
+- **[PyDataQuality](https://github.com/DominionAkinrotimi/PyDataQuality)**: open-source Python tool that checks whether a data file is safe to use and what changed since the last one.
+
+---
+
 ### 🌍 Portfolio & Products  
 - [Selar Profile](https://selar.co/m/dominion-akinrotimi)  
-- [Portfolio Website](https://dominionakinrotimi.lovable.app)
+- [Portfolio Website](https://www.dominionakinrotimi.com)
 - [Medium](https://dominionakinrotimi.medium.com/)  
 
 ---
